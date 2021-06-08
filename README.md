@@ -3,6 +3,11 @@
 ## Description
 My project is a egg crusher. A bladed axe is placed on top of a box on a acrylic plate. When you hit the button it swings down and hits the egg which is on its own stand.
 
+## Finished Project
+
+## Materials
+Poly and plastic
+
 ## Timeline 
 
 April 15th-I started my own project
