@@ -4,6 +4,8 @@
 My project is a egg crusher. A bladed axe is placed on top of a box on a acrylic plate. When you hit the button it swings down and hits the egg which is on its own stand.
 
 ## Finished Project
+![image](https://user-images.githubusercontent.com/71350259/121612103-bdb19800-ca27-11eb-809f-68075bc797ee.png)
+
 
 ## Materials
 Poly and plastic
@@ -45,4 +47,4 @@ This is the axe used to crush the egg.
 ![image](https://user-images.githubusercontent.com/71350259/121249317-71712700-c872-11eb-924e-7e78288f2f3e.png)
 
 ## Reflections
-I suprising didn't expect to get this close to finishing the project. At first I struggled with this project but I started to catch on with what I want to complete.It felt weird doing a solo project but I enjoyed it. I had to do this faster since I left my last project due to the partner always being gone. I hope it works even if it puts a dent in it ill be fine with that. The biggest problem at first was a egg holder so I had to find one online that I liked the shaped of. The design overall was just inspired by them Medievel punishments you would see.
+I suprising didn't expect to get this close to finishing the project. At first I struggled with this project but I started to catch on with what I want to complete.It felt weird doing a solo project but I enjoyed it. I had to do this faster since I left my last project due to the partner always being gone. I hope it works even if it puts a dent in it ill be fine with that. The biggest problem at first was a egg holder so I had to find one online that I liked the shaped of. The design overall was just inspired by them Medievel punishments you would see. The project didnt work due to a unstable egg holder and servo that isnt strong enough.
